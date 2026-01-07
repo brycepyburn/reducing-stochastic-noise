@@ -27,5 +27,5 @@ I applied the metric in a limited capacity in several facets of analytic work to
 * Data Handling: Manual tracking of NAIA game film
 
 ## Repository Contents
-* `analysis/`: Contains the Exel source file used to derive the metric along with KR-20 testing and basic applications.
+* `analysis/`: Contains the Exel source file used to derive the metric along with KR-20 testing and basic applications (coming soon).
 * [📄 Shot Quality Research Paper (PDF)](Shot-Quality-Research.pdf): The full research paper detailing the derivation and validation.
