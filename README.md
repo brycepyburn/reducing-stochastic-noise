@@ -28,4 +28,4 @@ I applied the metric in a limited capacity in several facets of analytic work to
 
 ## Repository Contents
 * `analysis/`: Contains the Exel source file used to derive the metric along with KR-20 testing and basic applications.
-* `paper/`: The full research paper detailing the derivation and validation.
+* `research-paper/`: The full research paper detailing the derivation and validation.
