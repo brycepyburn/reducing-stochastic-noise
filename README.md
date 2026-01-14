@@ -10,7 +10,7 @@ I derived a new metric that assesses the expected value of any basketball shot b
 
 ## Validation
 I tested my metric with Kuder-Richardson Formula 20 using a modified variance calculation to assess metric stability:
-$$KR_20 = \frac{N}{N-1} (1 - \frac{\sum_{i=1}^N p_i(1-p_i)}{\sigma^2})=0.910$$ 
+$$KR_{20} = \frac{N}{N-1} (1 - \frac{\sum_{i=1}^N p_i(1-p_i)}{\sigma^2})=0.910$$ 
 
 **What this means:** Approximately 91% of the variance in shot quality reflects actual variance in the difficulty of the shots. Calculated KR-20 significantly exceeded standard threshold value of 0.7.  
 
