@@ -29,5 +29,3 @@ I applied the metric in a limited capacity in several facets of analytic work to
 ## Repository Contents
 * [📊 Analysis](KR20.xlsx): Contains the Excel source file used to derive the metric along with KR-20 testing and basic applications.
 * [📄 Shot Quality Research Paper (PDF)](Shot-Quality-Research.pdf): The full research paper detailing the derivation and validation.
-
-[⬅️ Back to My Portfolio](https://brycepyburn.github.io/)
